@@ -82,7 +82,6 @@ Notes and limitations ⚠️
 - Input validation is minimal; non-numeric input may cause unexpected behavior.  
 - Hunger and Energy must be managed to continue working.  
 - The game is single-player and does not save progress between sessions.  
-- Future improvements could include better balancing, more activities, and save/load functionality.
 
 Author 👤
 ------
